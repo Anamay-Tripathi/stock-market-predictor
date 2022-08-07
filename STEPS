@@ -1,0 +1,8 @@
+STEPS
+
+Import the Libraries.
+Load the Training Dataset. ...
+Use the Open Stock Price Column to Train Your Model.
+Normalizing the Dataset. ...
+Creating X_train and y_train Data Structures.
+Reshape the Data.
